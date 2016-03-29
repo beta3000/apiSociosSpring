@@ -1,0 +1,6 @@
+com\mycompany\ws\model\Socio.class
+com\mycompany\ws\service\SocioServiceBean.class
+com\mycompany\ws\controller\SocioController.class
+com\mycompany\ws\repository\SocioRepository.class
+com\mycompany\ws\ApiRestFulProjectApplication.class
+com\mycompany\ws\service\SocioService.class
